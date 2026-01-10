@@ -1,0 +1,10 @@
+export { Hero } from './Hero';
+export { Services } from './Services';
+export { Process } from './Process';
+export { Shop } from './Shop';
+export { Testimonials } from './Testimonials';
+export { Portfolio } from './Portfolio';
+export { Team } from './Team';
+export { FAQ } from './FAQ';
+export { Contact } from './Contact';
+export { Footer } from './Footer';
